@@ -8,7 +8,7 @@ django-ipware==0.1.0
 django-jsonfield==0.9.13
 django-mptt==0.6.1
 django-redis==3.8.3
-djangorestframework==2.3.14
+djangorestframework==3.11.2
 djmail==0.10.0
 kombu==3.0.24
 python-dateutil==2.4.1
