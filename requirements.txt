@@ -1,6 +1,6 @@
 Django==1.7.6
 BeautifulSoup==3.2.1
-Pillow==2.7.0
+Pillow==8.2.0
 PyICU==1.8
 celery==3.1.17
 django-cors-headers==1.0.0
